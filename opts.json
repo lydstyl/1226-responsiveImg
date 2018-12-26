@@ -1,0 +1,15 @@
+{
+    "imgFolder": "./img",
+    "mobile": {
+        "resolution": "320",
+        "prefix": "sm"
+    },
+    "tablet": {
+        "resolution": "768",
+        "prefix": "md"
+    },
+    "desktop": {
+        "resolution": "1024",
+        "prefix": "lg"
+    }
+}
